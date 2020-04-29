@@ -1,11 +1,28 @@
+a {
+  color: $link-color;
+}
+.site-header .site-title {
+  color: $brand-color;
+}
 .products {
   padding: 20px 0;
+  h2 {
+    font-weight: 800;
+    font-size: 3rem;
+    color: $brand-color;
+    text-align: center;
+  }
 }
 .product_grid {
 background: #fdfdfd;
 padding: 50px 20px;
 .card {
   padding: 20px;
+  h3 {
+    font-weight: 800;
+    color: $brand-color;
+    text-align: center;
+  }
   img {
     border: none;
   }
@@ -21,6 +38,11 @@ img {
 .call {
   button {
    display: block;
+   border: none;
+   background: $button-color;
+   color: $background-color;
    width: 100%;
+   padding: 10px;
+   text-transform: uppercase;
   }
 }
