@@ -1,0 +1,26 @@
+.products {
+  padding: 20px 0;
+}
+.product_grid {
+background: #fdfdfd;
+padding: 50px 20px;
+.card {
+  padding: 20px;
+  img {
+    border: none;
+  }
+}
+}
+img {
+  display: block;
+  max-width: 100%;
+  margin: 20px auto;
+  border: 1px rgb(100, 96, 96);
+  border-style: solid
+}
+.call {
+  button {
+   display: block;
+   width: 100%;
+  }
+}

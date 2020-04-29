@@ -1,0 +1,27 @@
+---
+layout: default
+---
+<h2>Products</h2>
+<div class="product_grid row">
+{%- for item in site.products -%}
+<div class="product col-12 col-sm-12 col-md-6 col-lg-4">
+  <div class="card">
+  <h3>{{item.name}}</h3>
+  <img src="{{item.image | relative_url}}" alt="{{item.title}}">
+  <p>{{item.description}}</p>
+  <a href="{{item.url}}">read more...</a>
+  <p><b>Price: </b>{{item.price}}</p>
+  <div class="call">
+    {% include product-def-part.html 
+      identifier  = item.identifier
+      name        = item.name 
+      price       = item.price
+      image       = item.image
+      description = item.description
+      url         = item.url
+      %}
+  </div>
+  </div>
+  </div>
+{%- endfor -%}
+</div>
