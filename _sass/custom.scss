@@ -1,8 +1,15 @@
 a {
   color: $link-color;
 }
-.site-header .site-title {
+.site-header {
+  .cart .header__checkout {
+    margin: 12px;
+    background: transparent;
+    border: none;
+  }
+ .site-title {
   color: $brand-color;
+}
 }
 .products {
   padding: 20px 0;
