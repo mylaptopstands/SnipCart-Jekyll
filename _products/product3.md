@@ -2,7 +2,7 @@
 identifier: product3
 layout: products
 name: Laptop Desk Bed
-price: 99.95
+price: 79.95
 image: /assets/images/product_03/01.jpg
 description: "You can hardly imagine how practical this computer desk will be just for the first sight of our 53cm Trendy Adjustable Bamboo Computer Desk! The legs of this computer desk are foldable, so it can largely save space when not in use. "
 tags: Laptop Desk Bed

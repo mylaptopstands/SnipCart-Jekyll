@@ -2,7 +2,7 @@
 identifier: product2
 layout: products
 name: Laptop Desk Bed
-price: 64.95
+price: 79.95
 image: /assets/images/product_02/01.jpg
 description: "Our bed lap desk is made of natural bamboo material with exquisite workmanship, eco-friendly and durable to use. It has many smart designs, such as an anti-slip baffle and lifting table legs, small drawer cup place groove, etc."
 # file_guid: 66edfe7f-0851-4418-93e8-785975df7318
