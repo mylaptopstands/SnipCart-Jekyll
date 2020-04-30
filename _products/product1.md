@@ -2,7 +2,7 @@
 identifier: product1
 layout: products
 name: Bed Desk Table
-price: 79.95
+price: 94.95
 image: /assets/images/product_01/01.jpg
 description: "Aluminium Alloy Folding computer desk
 <br>
