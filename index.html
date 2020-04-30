@@ -9,7 +9,7 @@ layout: default
   <h3>{{item.name}}</h3>
   <img src="{{item.image | relative_url}}" alt="{{item.title}}">
   <p>{{item.description}}</p>
-  <a href="{{item.url}}">read more...</a>
+  <a href="{{item.url | relative_url}}">read more...</a>
   <p><b>Price: </b>{{item.price}}</p>
   <div class="call">
     {% include product-def-part.html 
