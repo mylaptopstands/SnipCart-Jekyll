@@ -40,9 +40,9 @@ It also can be used as a great gift for your family or friends.
 * *Drawer Size (L x W):* Approx. 17.7 x 7.5cm / 7.0 x 3.0inch
 * *Weight:* Approx. 2.2kg
 
-![]({{"../../assets/images/product_02/01.jpg" | relative_url}})
-![]({{"../../assets/images/product_02/02.jpg" | relative_url}})
-![]({{"../../assets/images/product_02/03.jpg" | relative_url}})
-![]({{"../../assets/images/product_02/04.jpg" | relative_url}})
-![]({{"../../assets/images/product_02/05.jpg" | relative_url}})
-![]({{"../../assets/images/product_02/06.jpg" | relative_url}})
+![]({{"/assets/images/product_02/01.jpg" | relative_url}})
+![]({{"/assets/images/product_02/02.jpg" | relative_url}})
+![]({{"/assets/images/product_02/03.jpg" | relative_url}})
+![]({{"/assets/images/product_02/04.jpg" | relative_url}})
+![]({{"/assets/images/product_02/05.jpg" | relative_url}})
+![]({{"/assets/images/product_02/06.jpg" | relative_url}})

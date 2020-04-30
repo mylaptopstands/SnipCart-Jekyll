@@ -34,7 +34,7 @@ Adjustable design can be said as the most remarkable feature of this desk. The h
 6. Weight: 5.11 lbs / 2.32 kg
 7. Weight Capacity: 22 lbs / 10 kg
 
-![]({{"../../assets/images/product_03/01.jpg" | relative_url}})
-![]({{"../../assets/images/product_03/02.jpg" | relative_url}})
-![]({{"../../assets/images/product_03/03.jpg" | relative_url}})
-![]({{"../../assets/images/product_03/04.jpg" | relative_url}})
+![]({{"/assets/images/product_03/01.jpg" | relative_url}})
+![]({{"/assets/images/product_03/02.jpg" | relative_url}})
+![]({{"/assets/images/product_03/03.jpg" | relative_url}})
+![]({{"/assets/images/product_03/04.jpg" | relative_url}})

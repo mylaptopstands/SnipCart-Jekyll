@@ -33,9 +33,9 @@ The all in one solution for computing when on the couch or in bed. Engineered wi
 * 1 x An Instruction Manual
 * 2 x Black Non-Slip Baffle
 
-![]({{"../../assets/images/product_01/01.jpg" | relative_url}})
-![]({{"../../assets/images/product_01/02.jpg" | relative_url}})
-![]({{"../../assets/images/product_01/03.jpg" | relative_url}})
-![]({{"../../assets/images/product_01/04.jpg" | relative_url}})
-![]({{"../../assets/images/product_01/05.jpg" | relative_url}})
-![]({{"../../assets/images/product_01/06.jpg" | relative_url}})
+![]({{"/assets/images/product_01/01.jpg" | relative_url}})
+![]({{"/assets/images/product_01/02.jpg" | relative_url}})
+![]({{"/assets/images/product_01/03.jpg" | relative_url}})
+![]({{"/assets/images/product_01/04.jpg" | relative_url}})
+![]({{"/assets/images/product_01/05.jpg" | relative_url}})
+![]({{"/assets/images/product_01/06.jpg" | relative_url}})
