@@ -10,3 +10,27 @@ This is the future of home desks. It has never been so easy to work from the cou
 
 We strive for customer satisfaction and to connect with the right product to enhance work productivity, gaming, and leisure while working remotely. A great investment to enhance your productivity.
 
+
+PAYPAL BUYER PROTECTION
+
+
+PayPal Buyer Protection: We Proud to provide Paypal Third Party
+
+If you don’t receive your item, or the item is significantly different from its description in the seller’s listing, PayPal Buyer Protection covers eligible transactions for up to the full purchase price plus original shipping charges. (Some purchases aren’t eligible for this program, including vehicles in the Motors category, capital equipment in the Business & Industrial category, and Real Estate.)
+
+An item is covered by PayPal Buyer Protection if:
+
+*You purchase the item on mylaptopstands.com.
+
+*You use PayPal to pay for the item.
+
+*You correspond with the mylaptopstands.com using the email address info@mylaptopstands.com.
+
+*The seller’s listing is for a physical item—services and intangible items aren’t covered.
+
+*You file only one claim per PayPal payment.
+
+*You open the case no later than 180 calendar days from the date of your PayPal payment and – if you need to – escalate it to a claim no more than 20 calendar days after you open your case.
+
+*You meet the PayPal Buyer Protection requirements outlined in Section 13 of the PayPal User Agreement.
+
