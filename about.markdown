@@ -8,3 +8,5 @@ Do you use your laptop when laying in bed or relaxing on the couch? Your laptop 
 
 This is the future of home desks. It has never been so easy to work from the couch or watch your favorite movie in bed. This desk is chill but can also improve your posture if you're willing to put in the work.
 
+We strive for customer satisfaction and to connect with the right product to enhance work productivity, gaming, and leisure while working remotely. A great investment to enhance your productivity.
+
