@@ -14,7 +14,7 @@ We strive for customer satisfaction and to connect with the right product to enh
 PAYPAL BUYER PROTECTION
 
 
-PayPal Buyer Protection: We Proud to provide Paypal Third Party
+PayPal Buyer Protection: We are Proud to provide Paypal Third Party
 
 If you don’t receive your item, or the item is significantly different from its description in the seller’s listing, PayPal Buyer Protection covers eligible transactions for up to the full purchase price plus original shipping charges. (Some purchases aren’t eligible for this program, including vehicles in the Motors category, capital equipment in the Business & Industrial category, and Real Estate.)
 
