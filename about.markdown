@@ -34,3 +34,10 @@ An item is covered by PayPal Buyer Protection if:
 
 <li>You meet the PayPal Buyer Protection requirements outlined in Section 13 of the PayPal User Agreement.</li>
 </ul>
+
+
+<b>Shipping and Delivery</b>
+
+Free shipping for items delivered in the USA.
+No returns or exchanges, but please contact us if you have any problems with your order.
+Handling time 1-2 business days. Estimated delivery between 4-7 business days.
