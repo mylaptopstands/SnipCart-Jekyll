@@ -10,7 +10,7 @@ layout: default
 <div class="product col-12 col-sm-12 col-md-6 col-lg-4">
   <div class="card">
   <h3>{{item.name}}</h3>
-  <img src="{{item.image | relative_url}}" alt="{{item.title}}">
+  <a href="{{item.url | relative_url}}"><img src="{{item.image | relative_url}}" alt="{{item.title}}"></a>
   <p>{{item.description}}</p>
   <a href="{{item.url | relative_url}}">see more...</a>
   <p><b>Price: </b>{{item.price}}</p>
