@@ -4,7 +4,7 @@ layout: products
 name: Adjustable Laptop Cart
 price: 235.18
 image: /assets/images/product_05/01.jpg
-description: "The product is designed for 19'' to 8'' laptops, netbooks, iPads, and all sizes in between which is fully adjustable to each size. The item's feature is easing of movement to and from you. While your laptop is securely in place."
+description: "The product is designed for 19'' to 8'' laptops, netbooks, iPads, and all sizes in between which is fully adjustable to each size. The item's feature is easing of movement to and from you."
 tags: Adjustable Laptop Cart
       Bed Desk Table
       Chair Desk
