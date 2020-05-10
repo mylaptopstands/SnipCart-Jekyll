@@ -13,7 +13,7 @@ layout: default
   <a href="{{item.url | relative_url}}"><img src="{{item.image | relative_url}}" alt="{{item.title}}"></a>
   <p>{{item.description}}</p>
   <a href="{{item.url | relative_url}}">see more...</a>
-  <p><b>Price: </b>{{item.price}}</p>
+  <p><!--<b>Price: </b>{{item.price}}-->  <b> FREE Shipping within the US.</b></p>
   <div class="call">
     {% include product-def-part.html 
       identifier  = item.identifier
