@@ -46,3 +46,5 @@ It also can be used as a great gift for your family or friends.
 ![]({{"/assets/images/product_02/04.jpg" | relative_url}})
 ![]({{"/assets/images/product_02/05.jpg" | relative_url}})
 ![]({{"/assets/images/product_02/06.jpg" | relative_url}})
+
+<div class="powr-reviews" id="caf6c2b8_1589127967"></div><script src="https://www.powr.io/powr.js?platform=embed"></script>

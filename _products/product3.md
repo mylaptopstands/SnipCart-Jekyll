@@ -38,3 +38,5 @@ Adjustable design can be said as the most remarkable feature of this desk. The h
 ![]({{"/assets/images/product_03/02.jpg" | relative_url}})
 ![]({{"/assets/images/product_03/03.jpg" | relative_url}})
 ![]({{"/assets/images/product_03/04.jpg" | relative_url}})
+
+<div class="powr-reviews" id="1061aae4_1589128119"></div><script src="https://www.powr.io/powr.js?platform=embed"></script>

@@ -39,3 +39,5 @@ The all in one solution for computing when on the couch or in bed. Engineered wi
 ![]({{"/assets/images/product_01/04.jpg" | relative_url}})
 ![]({{"/assets/images/product_01/05.jpg" | relative_url}})
 ![]({{"/assets/images/product_01/06.jpg" | relative_url}})
+
+<div class="powr-reviews" id="de995a03_1589127755"></div><script src="https://www.powr.io/powr.js?platform=embed"></script>
