@@ -1,10 +1,10 @@
 ---
 identifier: product5
 layout: products
-name: Adjustable Laptop Cart
-price: 235.18
+name: Laptop and LCD Monitor Desk Mount
+price: 83.99
 image: /assets/images/product_05/01.jpg
-description: "The product is designed for 19'' to 8'' laptops, netbooks, iPads, and all sizes in between which is fully adjustable to each size. The item's feature is easing of movement to and from you."
+description: "The Laptop & LCD Monitor Height Adjustable Desk Mount from VIVO allows you to mount your laptop along with a monitor up to 24'' side by side!"
 tags: Adjustable Laptop Cart
       Bed Desk Table
       Chair Desk
@@ -12,32 +12,31 @@ tags: Adjustable Laptop Cart
       Chair Tray
       Chair Stand Laptop
       Tripod Laptop Stand
-file_guid: w0003148-9127-4e7f-bcdb-dff84a337775
+file_guid: vivO1015-9127-4e7f-bcdb-dff84a337775
 ---
-The product is designed for 19" to 8" laptops, netbooks, iPads, and all sizes in between which is fully adjustable to each size. The item's feature is easing of movement to and from you. While your laptop is securely in place. The stand is heavy-duty double braced legs, fine-toothed tilter, contoured wing screws, oversized rubber feet, standard gauge tubing. Comes with stainless steel 24" boom arm. The boom arm is 24" length which places the top tray directly in front of you. The stand defies weight gravity in 2 ways of moving the 24" boom arm moving to you and moving the boom arm away from you in less than 2 seconds with our kickstand technology and their base technology all while holding your laptop securely in place. Only they offer the new weight gravity technology. Use on both left and/or ride side of any desk, chair, recliner, couch, bed, loveseat and is fully adjustable to your needs. Great for use of writing table, book, magazine, Xbox, Nintendo, PlayStation, food tray, beverage tray, drawing table and any use you can imagine. Their exclusive latching system gives you the ability to quickly set up and take down the stand as needed just pull the latch pin and leave the latch place in place under your chair. Made from high-density HDPE polyethylene plastic. This type of plastic is UV resistant, will not break, not stain and is resistant to mold, cleans very easy, not rot either. The stand is made from steel and high-quality 6061 aluminum parts are made in the USA with a high polish finish. The product comes with all in the shown photo - heavy duty stand with double braced legs, 24" boom arm, laptop holder, center bracket for kickstand and mouse pad holder, latching plate, sway bar holder, sway bar. The parts are proudly made and assembled in the USA.
+The Laptop & LCD Monitor Height Adjustable Desk Mount from VIVO allows you to mount your laptop along with a monitor up to 24" side by side! This mount is elegantly designed with a nice black finish. The pole is 18" tall plus the C clip that mounts to the desk. The LCD mounting bracket uses vesa 75x75 and 100x100 mounting holes, and the laptop base is 12" x 14" with a 1/2" lip. Special features include the ability for each individual VESA plate to be adjusted up and down by 1” so your monitors will be perfectly aligned (see pictures and video for more information). Every joint is able to be tightened, so you can adjust exactly how fluid/stationary you want everything, simply remove the cap on the joint and tighten the bolt underneath. Maximum arm length is 10".
 
 ## Features:
-1. With table tray and printer stand.
-2. Moves to you and from you in 2 seconds.
-3. Features weight gravity latchplate.
-4. Features kickstand technology.
+1. Fits monitors up to 24"
+2. VESA 100 x 100 and 75 x 75
+3. Adjustable fits 1 screen
 
 
 ## Specifications:
-1. Product Type: Laptop/Computer Cart or Stand
-2. Primary Material: Metal
-3. Minimum Overall Height - Floor to Tabletop: 26''
-4. Maximum Overall Height - Floor to Tabletop: 36''
-5. Overall: 30'' H x 18'' W x 8'' D
-6. Overall Product Weight: 20 lb.
+1. Product Type: Desk mount
+2. Screen Size: 24''
+3. Number of Screens: 2
+4. Weight Capacity: 22 lb.
+5. Maximum Height 17.5''
+6. Overall 18'' H x 10'' W x 12'' D
+7. Arm 16.5'' D
+8. Overall Product Weight 16 lb.
+9. Lip size: 0.5"
+10. Laptop base dimensions: 12" H x 14" W
+11. Pole diameter: 35 mm
+12. Desk thickness this can mount: 4"
 
 ![]({{"/assets/images/product_05/01.jpg" | relative_url}})
 ![]({{"/assets/images/product_05/02.jpg" | relative_url}})
 ![]({{"/assets/images/product_05/03.jpg" | relative_url}})
 ![]({{"/assets/images/product_05/04.jpg" | relative_url}})
-![]({{"/assets/images/product_05/05.jpg" | relative_url}})
-![]({{"/assets/images/product_05/06.jpg" | relative_url}})
-![]({{"/assets/images/product_05/07.jpg" | relative_url}})
-![]({{"/assets/images/product_05/08.jpg" | relative_url}})
-![]({{"/assets/images/product_05/09.jpg" | relative_url}})
-![]({{"/assets/images/product_05/10.jpg" | relative_url}})
