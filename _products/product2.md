@@ -1,11 +1,11 @@
 ---
 identifier: product2
 layout: products
-name: Laptop Desk Bed
-price: 79.95
+name: Laptop Desk Bamboo
+price: 71.99
 image: /assets/images/product_02/01.jpg
-description: "Our bed lap desk is made of natural bamboo material with exquisite workmanship, eco-friendly and durable to use. It has many smart designs, such as an anti-slip baffle and lifting table legs, small drawer cup place groove, etc."
-# file_guid: 66edfe7f-0851-4418-93e8-785975df7318
+description: "This adjustable laptop desk is a reliable surface that is made of 100% natural bamboo and can better support you while reading, gaming and snacking. The flip top with 4 position tilt adjustment, as well as the multi adjustable height on legs,"
+# file_guid: w0014032-0851-4418-93e8-785975df7318
 tags: Laptop Desk Bed
       Bed Desk Table
       Bed Desk
@@ -13,32 +13,42 @@ tags: Laptop Desk Bed
       Bed Tray
       laptop stand bamboo
       Laptop Stand Wooden
-file_guid: 66edfe7f-0851-4418-93e8-785975df7318
+file_guid: w0014032-0851-4418-93e8-785975df7318
 ---
-It also has ventilation holes on the surface for timely heat emission. Foldable and lightweight is perfect for use in your home bed, sofa, etc. Worth buying for your family!
+This adjustable laptop desk is a reliable surface that is made of 100% natural bamboo and can better support you while reading, gaming and snacking. The flip top with 4 position tilt adjustment, as well as the multi adjustable height on legs, gives you comfort and flexibility. Even more, the side flat table top can be used for pens, drinks or snacks and the side drawer is for any essentials. It is finished in the natural bamboo grain and a layer of clear eco-friendly lacquer for high durability and free from any harsh chemicals. Foldable legs make storage easier in wherever you like. Lay your laps flat and enjoy your precious bed reading and snacking time, as well as Sunday brunch. Laptop desk is a gift for both family and friends.
 
-*** Please note some tables won't have cup groove ***
 
 ## Features:
 
-Made of high-quality bamboo material with exquisite workmanship, natural, environmental-friendly, safe, sturdy and durable to use.
-Excellent craftsmanship. With flower shaped ventilation holes on surface for timely heat emission. The anti-collision desk horn can prevent you from being scratched. The design of a button is used to adjust the table legs.
-It also has many other smart designs: Adjustable desk panel for you comfortable reading, an anti-slip baffle that laptop won't fully down easily, a small drawer for storing items, a groove for putting cup, a line cord slop that used for of fan's line cord.
-Reasonable size, foldable and lightweight that can be perfectly used in your home bed, sofa etc.
-It also can be used as a great gift for your family or friends.
+1. Made of 100% natural bamboo
+2. Finish in natural bamboo grain and a layer of clear lacquer for high durability and eco-friendliness
+3. 4 Position adjustable flip top for more tilt position choices
+4. Baffle on the flip top as laptop and cup holder
+5. Certificate: ISO9001
+6. Foldable legs for easier storage and transportation
+7. Multi-position adjustable Legs for different height and superb comfort
+8. Ready for use when open the package
+9. Side drawer for any essentials
+10. Side flat table part for pens, snacks and drinks
+11. Simple design with texture and fine detail
+12. Solid and sturdy construction
+13. Weight limit of flip top: 55 lbs
+
 
 ## Specification:
 
-* *Condition*: 100% Brand New
-* *Material:* Bamboo
-* *Color:* Shown as picture
-* *Table Extend Length :* Approx. 53-58cm / 21inch-23inch
-* *Leg Length:* Approx. 17.5-25cm / 6.9-9.8inch
-* *Desk Panel Length:* Approx. 49.6cm / 19.5inch
-* *Removable Desk Panel Length:* Approx. 32.9cm / 13inch
-* *Anti-slip Baffle Length:* Approx. 15.8 / 6.2inch
-* *Drawer Size (L x W):* Approx. 17.7 x 7.5cm / 7.0 x 3.0inch
-* *Weight:* Approx. 2.2kg
+1. Base Material: Wood
+2. Tray Material: Wood
+3. Water Resistant: Yes
+4. Folding: Yes
+5. Portable: Yes
+6. Overall 11'' H x 21.5'' L x 12'' W
+7. Tray 21.5'' L x 12'' W
+8. Folded 2'' H x 20'' L x 12'' W
+9. Drawer Interior 1'' H x 6'' L x 5'' W
+10. Lap Clearance 11''
+11. Individual Product Weight 4.80 lb.
+12. Overall Product Weight 4.80 lb.
 
 ![]({{"/assets/images/product_02/01.jpg" | relative_url}})
 ![]({{"/assets/images/product_02/02.jpg" | relative_url}})
