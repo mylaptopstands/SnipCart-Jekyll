@@ -39,4 +39,8 @@ The first truly portable desk riser. This premium compact portable sit-stand adj
 ![]({{"/assets/images/product_04/05.jpg" | relative_url}})
 ![]({{"/assets/images/product_04/06.jpg" | relative_url}})
 
+<div class="call">
+        {% include product-definition.html %}
+</div>
+<br>
 <div class="powr-reviews" id="7b48b951_1589128286"></div><script src="https://www.powr.io/powr.js?platform=embed"></script>

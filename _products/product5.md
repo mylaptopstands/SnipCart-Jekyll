@@ -41,4 +41,8 @@ The Laptop & LCD Monitor Height Adjustable Desk Mount from VIVO allows you to mo
 ![]({{"/assets/images/product_05/03.jpg" | relative_url}})
 ![]({{"/assets/images/product_05/04.jpg" | relative_url}})
 
+<div class="call">
+        {% include product-definition.html %}
+</div>
+<br>
 <div class="powr-reviews" id="40210ce0_1589128351"></div><script src="https://www.powr.io/powr.js?platform=embed"></script>

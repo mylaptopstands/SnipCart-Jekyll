@@ -57,4 +57,8 @@ This adjustable laptop desk is a reliable surface that is made of 100% natural b
 ![]({{"/assets/images/product_02/05.jpg" | relative_url}})
 ![]({{"/assets/images/product_02/06.jpg" | relative_url}})
 
+<div class="call">
+        {% include product-definition.html %}
+</div>
+<br>
 <div class="powr-reviews" id="caf6c2b8_1589127967"></div><script src="https://www.powr.io/powr.js?platform=embed"></script>

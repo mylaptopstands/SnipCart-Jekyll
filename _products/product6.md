@@ -39,4 +39,8 @@ The ergonomic design of the product makes being on your laptop easier and more e
 ![]({{"/assets/images/product_06/06.jpg" | relative_url}})
 ![]({{"/assets/images/product_06/07.jpg" | relative_url}})
 
+<div class="call">
+        {% include product-definition.html %}
+</div>
+<br>
 <div class="powr-reviews" id="024debe5_1589128446"></div><script src="https://www.powr.io/powr.js?platform=embed"></script>
