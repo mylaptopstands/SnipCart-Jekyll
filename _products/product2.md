@@ -2,7 +2,7 @@
 identifier: product2
 layout: products
 name: Laptop Desk Bamboo
-price: 71.99
+price: 91.12
 image: /assets/images/product_02/01.jpg
 description: "This adjustable laptop desk is a reliable surface that is made of 100% natural bamboo and can better support you while reading, gaming and snacking. The flip top with 4 position tilt adjustment, as well as the multi adjustable height on legs,"
 # file_guid: w0014032-0851-4418-93e8-785975df7318
