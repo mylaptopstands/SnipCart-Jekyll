@@ -73,6 +73,9 @@ The all in one solution for computing when on the couch or in bed. Engineered wi
 ![]({{"/assets/images/product_01/04.jpg" | relative_url}})
 ![]({{"/assets/images/product_01/05.jpg" | relative_url}})
 ![]({{"/assets/images/product_01/06.jpg" | relative_url}})
+![]({{"/assets/images/product_01/07.jpg" | relative_url}})
+![]({{"/assets/images/product_01/08.jpg" | relative_url}})
+![]({{"/assets/images/product_01/09.jpg" | relative_url}})
 
 <div class="call">
         {% include product-definition.html %}
