@@ -2,7 +2,7 @@
 identifier: product1
 layout: products
 name: Bed Desk Table
-price: 94.95
+price: 137.38
 image: /assets/images/product_01/01.jpg
 description: "Aluminium Alloy Folding computer desk
 <br>
@@ -16,8 +16,9 @@ tags: Laptop Desk Bed
 file_guid: 09e589c7-3d18-4c2e-9cee-4f447e9f054a
 ---
 
-<h1>OUT OF STOCK</h1>
+<!--<h1>OUT OF STOCK</h1>-->
 <!-- Begin Mailchimp Signup Form -->
+<!--
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
 	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }
@@ -41,13 +42,14 @@ file_guid: 09e589c7-3d18-4c2e-9cee-4f447e9f054a
 	<div id="mce-responses" class="clear">
 		<div class="response" id="mce-error-response" style="display:none"></div>
 		<div class="response" id="mce-success-response" style="display:none"></div>
-	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7132be25086ce9a61ecb552e4_9f761ad23e" tabindex="-1" value=""></div>
+	</div> -->   <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <!--<div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_7132be25086ce9a61ecb552e4_9f761ad23e" tabindex="-1" value=""></div>
     <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
     </div>
 </form>
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
+-->
 <!--End mc_embed_signup-->
 
 The all in one solution for computing when on the couch or in bed. Engineered with venting holes on the surface and can be fully adjustable to meet your desired height, this is the future of home desks. It has never been so easy to work from the couch or watch your favorite movie in bed. This desk is chill but can also improve your posture if you're willing to put in the work. It can be used as a standing desk at home or in the office. Just place Chill Desk on your existing desk, raise to comfortable standing height, and burn those unwanted calories!
@@ -73,9 +75,9 @@ The all in one solution for computing when on the couch or in bed. Engineered wi
 ![]({{"/assets/images/product_01/04.jpg" | relative_url}})
 ![]({{"/assets/images/product_01/05.jpg" | relative_url}})
 ![]({{"/assets/images/product_01/06.jpg" | relative_url}})
-![]({{"/assets/images/product_01/07.jpg" | relative_url}})
+<!--![]({{"/assets/images/product_01/07.jpg" | relative_url}})
 ![]({{"/assets/images/product_01/08.jpg" | relative_url}})
-![]({{"/assets/images/product_01/09.jpg" | relative_url}})
+![]({{"/assets/images/product_01/09.jpg" | relative_url}})-->
 
 <div class="call">
         {% include product-definition.html %}
