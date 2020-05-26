@@ -2,7 +2,7 @@
 identifier: product2
 layout: products
 name: Aluminium Eye-Level Monitor Stand
-price: 134.34
+price: 147.77
 image: /assets/images/product_02/01.jpg
 description: "The laptop aluminium stand designed with ergonomics in mind and with the powerful cooling fan that strives to enhance the overall performance of your laptop"
 # file_guid: w0014032-0851-4418-93e8-785975df7318
