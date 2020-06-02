@@ -5,6 +5,7 @@ name: Tablo X Mounts
 price: 74.85
 image: /assets/images/product_08/01.jpg
 description: "Cushy tablet stand with storage pocket. Complete with a car strap to watch movies on car trips and a protective storage pocket. Free up your hands"
+weight: 30
 tags: Portable Tablet Stand
       Tablet Stand
       Tablet Cushion

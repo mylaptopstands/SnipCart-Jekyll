@@ -5,6 +5,7 @@ name: Adjust Tablet Stand
 price: 43.38
 image: /assets/images/product_09/01.jpg
 description: "Adjustable Portable Stand for iPad/Galaxy Tab/Other Tablets"
+weight: 30
 tags: Portable Tablet Stand
       Tablet Stand
       Adjustable Portable Stand for iPad/Galaxy Tab/Other Tablets

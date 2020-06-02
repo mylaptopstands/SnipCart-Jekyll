@@ -5,6 +5,7 @@ name: Portable Bamboo Laptop Cart
 price: 77.98
 image: /assets/images/product_06/01.jpg
 description: "The ergonomic design of the product makes being on your laptop easier and more enjoyable. Portable and efficient design, with a functional design..."
+weight: 30
 tags: Portable Laptop Cart
       Bed Desk Table
       Chair Desk

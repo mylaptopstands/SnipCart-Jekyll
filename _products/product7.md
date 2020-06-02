@@ -5,6 +5,7 @@ name: Tablet Stand
 price: 55.29
 image: /assets/images/product_07/01.jpg
 description: "Tablet stand provides easy, hands free access to tablet"
+weight: 30
 tags: Portable Tablet Stand
       Tablet Stand
       Tablet Desk

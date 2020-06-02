@@ -5,6 +5,7 @@ name: Adjustable Laptop Cart
 price: 122.39
 image: /assets/images/product_04/01.jpg
 description: "The first truly portable desk riser. This premium compact portable sit-stand adjustable desk riser is suitable for co-working spaces, boardroom presentations, travel, hotels & dorm rooms."
+weight: 30
 tags: Adjustable Laptop Cart
       Bed Desk Table
       Bed Desk

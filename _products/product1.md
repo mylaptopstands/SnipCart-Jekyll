@@ -5,6 +5,7 @@ name: Bed Desk Table
 price: 137.38
 image: /assets/images/product_01/01.jpg
 description: "Aluminium Alloy Folding computer desk
+weight: 30
 <br>
 Do you use your laptop when laying in bed or relaxing on the couch? Your laptop emits uncomfortable heat on your lap and does not properly vent because there's nowhere for the airflow to go."
 tags: Laptop Desk Bed

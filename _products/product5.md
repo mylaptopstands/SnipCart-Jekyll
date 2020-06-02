@@ -5,6 +5,7 @@ name: Laptop and LCD Monitor Desk Mount
 price: 96.28
 image: /assets/images/product_05/01.jpg
 description: "The Laptop & LCD Monitor Height Adjustable Desk Mount from VIVO allows you to mount your laptop along with a monitor up to 24'' side by side!"
+weight: 30
 tags: Adjustable Laptop Cart
       Bed Desk Table
       Chair Desk
