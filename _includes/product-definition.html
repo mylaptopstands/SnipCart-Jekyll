@@ -1,6 +1,6 @@
 <!--   <label for="{{ page.identifier }}-qty">Quantity:</label>
   <input type="number" id="{{ product.identifier }}-qty" class="qty" min="1" value="1" /> -->
-  {% if page.identifier == "product1" %}
+  {% if page.identifier == "product-1" %}
   <button
     class="buy-button snipcart-add-item"
     data-item-quantity="1"
@@ -15,8 +15,8 @@
     data-item-custom1-options="Black|Silver|Pink|Purple">
     Add to cart (${{ page.price }})
   </button>
-  {% elsif page.identifier != "product1" %}
-  <button
+  {% elsif page.identifier != "product-1" %}
+  <!--<button
     class="buy-button snipcart-add-item"
     data-item-quantity="1"
     data-item-id=          "{{ page.identifier }}"
@@ -27,7 +27,9 @@
 	data-item-weight=      "{{ page.weight }}"
     data-item-description= "{{ page.description }}">
     Add to cart (${{ page.price }})
+  </button>-->
+  <button onclick="location.href='{{page.stripe_link}}'"
+  style="background-color: #4CAF50;color:white;border: none;font-size: 16px;width: 100%;"
+  type="button">Buy now ${{page.price}}
   </button>
   {% endif %}
-
-

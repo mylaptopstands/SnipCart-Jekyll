@@ -2,7 +2,7 @@ title: My Laptop Stands
 email: info@mylaptopstands.com
 description: >- # this means to ignore newlines until "baseurl:"
   We strive for customer satisfaction and to connect with the right
-  product to enhance work productivity, gaming, and leisure while 
+  product to enhance work productivity, gaming, and leisure while
   working remotely. A great investment to enhance your productivity.
 contacttxt: Contact Us
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -11,7 +11,7 @@ api_key: ZGIzMTlhNzItMTg1My00MTM5LWI4ZDQtOTM4NDQ5OWEwOWNmNjM3MjMzNTQ0ODY2OTg0ODI
 collections:
   products:
     output: true
- 
+
 exclude:
   - .sass-cache/
   - .jekyll-cache/
@@ -23,3 +23,6 @@ exclude:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+plugins:
+  - jekyll-stripe

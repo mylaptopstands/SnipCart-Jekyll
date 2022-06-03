@@ -1,10 +1,12 @@
 ---
 identifier: product2
 layout: products
-name: Aluminium Eye-Level Monitor Stand
+name: Wooden laptop stand for desk
 price: 147.77
+stripe_link: https://buy.stripe.com/4gw5lGfqi3yl9TW289
+product_link: https://www.etsy.com/ca/listing/1066025640/laptop-stand-for-deskpersonalized-laptop?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=laptop+stand+cooling+fan&ref=sr_gallery-1-2&frs=1&organic_search_click=1
 image: /assets/images/product_02/01.jpg
-description: "The laptop aluminium stand designed with ergonomics in mind and with the powerful cooling fan that strives to enhance the overall performance of your laptop"
+description: "Laptop stand for desk,Personalized laptop stand,Portable Desk Organizer,laptop stand wood,Laptop Table Stand Desk with USB Cooling Fan."
 weight: 30
 # file_guid: w0014032-0851-4418-93e8-785975df7318
 tags: Laptop Desk Bed
@@ -19,16 +21,12 @@ tags: Laptop Desk Bed
 file_guid: w0014032-0851-4418-93e8-785975df7318
 ---
 
-The laptop aluminium stand designed with ergonomics in mind and with the powerful cooling fan that strives to enhance the overall performance of your laptop.
+Laptop stand for desk,Personalized laptop stand,Portable Desk Organizer,laptop stand wood,Laptop Table Stand Desk with USB Cooling Fan.
 
 
 ## Features:
 
-1.	Keep your laptop running at high-performance levels with natural cooling & a quiet fan: The open aluminium design allows for natural air ventilation to keep your laptop cool; additionally, the super-fast cooling fan (at 1800 rpm) helps provide better airflow.
-2.	Stylish aluminium stand/detachable USB powered fan: The laptop stand will fit any laptop between 10"- 17.3" wide & satin finish aluminium is designed to match and fit all 12-inch MacBook's, 13-inch/11-inch MacBook airs, 15-inch/13-inch MacBook pros, Asus, Dell, etc. The rapid cooling 15mm fan is small and removable but also strong enough to cool your laptop.
-3.	Raised front edges hold the laptop in place & rubberized non-slip pads secure your laptop in place and prevent unwanted scratches to your laptop
-4.	Enhanced ergonomics: Elevates your laptop by 6" to the perfect eye level and prevents you from hunching over your screen, preventing neck/shoulder strain.
-5.	Any laptops between 10" to 17" USB port should be 5v specially designed for Apple MacBook Pro, MacBook Air, and also works with any laptop up to 17"
+HIGH QUALITY MATERIAL:This laptop bed tray finished by Natural Eco-friendly and sturdy bamboo board, environment friendly and looks fantastic.
 
 
 
@@ -41,12 +39,6 @@ The laptop aluminium stand designed with ergonomics in mind and with the powerfu
 ![]({{"/assets/images/product_02/01.jpg" | relative_url}})
 ![]({{"/assets/images/product_02/02.jpg" | relative_url}})
 ![]({{"/assets/images/product_02/03.jpg" | relative_url}})
-![]({{"/assets/images/product_02/04.jpg" | relative_url}})
-![]({{"/assets/images/product_02/05.jpg" | relative_url}})
-![]({{"/assets/images/product_02/06.jpg" | relative_url}})
-![]({{"/assets/images/product_02/07.jpg" | relative_url}})
-![]({{"/assets/images/product_02/08.jpg" | relative_url}})
-![]({{"/assets/images/product_02/09.jpg" | relative_url}})
 
 <div class="call">
         {% include product-definition.html %}

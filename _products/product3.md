@@ -1,10 +1,12 @@
 ---
 identifier: product3
 layout: products
-name: Laptop Desk Bed
-price: 79.95
+name: Bamboo Laptop Desk
+price: 120.95
+stripe_link: https://buy.stripe.com/4gwg0kgum4Cp4zC28a
+product_link: https://www.etsy.com/ca/listing/1155777648/bamboo-laptop-desk-adjustable-portable?ga_order=most_relevant&ga_search_type=all&ga_view_type=gallery&ga_search_query=laptop+stand&ref=sr_gallery-1-26&pro=1&frs=1&organic_search_click=1
 image: /assets/images/product_03/01.jpg
-description: "You can hardly imagine how practical this computer desk will be just for the first sight of our 53cm Trendy Adjustable Bamboo Computer Desk! The legs of this computer desk are foldable, so it can largely save space when not in use. "
+description: "Bamboo Laptop Desk Adjustable portable Breakfast Serving Tray /Multi Function Table."
 weight: 30
 tags: Laptop Desk Bed
       Bed Desk Table
@@ -16,7 +18,7 @@ tags: Laptop Desk Bed
 file_guid: 79b1504d-9127-4e7f-bcdb-dff84a337775
 ---
 
-Adjustable design can be said as the most remarkable feature of this desk. The hidden small board on this desk can open for convenience. What's more, this computer desk is simple but elegant in general look. How do you like the offer?
+Bamboo Laptop Desk Adjustable portable Breakfast Serving Tray /Multi Function Table.
 
 ## Features:
 1. Built-to-last: 100% natural bamboo, which is not only eco-friendly but also as durable as solid wood, specially constructed tabletop withstands heavy loads and will not wear out or deform
@@ -29,7 +31,7 @@ Adjustable design can be said as the most remarkable feature of this desk. The h
 
 ## Specifications:
 1. Material: Bamboo
-2. Color: Wood Color/ Dark Coffee
+2. Color: Wood Color
 3. Dimensions: 53x33x(20.5-27.5)cm (L x W x H)
 4. Adjustable Height: 4 Gears
 5. Drawer Dimensions: (4.8 x 3.35 x 1.06)" / (12.2 x 8.5 x 2.7)cm (L x W x H)

@@ -13,17 +13,19 @@ layout: default
   <a href="{{item.url | relative_url}}"><img src="{{item.image | relative_url}}" alt="{{item.title}}"></a>
   <p>{{item.description}}</p>
   <a href="{{item.url | relative_url}}">see more...</a>
-  <p><!--<b>Price: </b>{{item.price}}-->  <b> FREE Shipping within the US.</b></p>
+  <p><!--<b>Price: </b>{{item.price}}-->  <b> FREE Shipping!</b></p>
   <div class="call">
-    {% include product-def-part.html 
+    {% include product-def-part.html
       identifier  = item.identifier
-      name        = item.name 
+      name        = item.name
       price       = item.price
       image       = item.image
       description = item.description
       url         = item.url
       %}
   </div>
+  <!--<p>{% stripe_button {{item.price2}} %}</p>-->
+  <p><button onclick="location.href='{{item.stripe_link}}'" style="background-color: #4CAF50;color:white;border: none;font-size: 16px;width: 100%;" type="button">Buy now ${{item.price}}</button></p>
   </div>
   </div>
 {%- endfor -%}
