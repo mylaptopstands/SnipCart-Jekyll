@@ -4,6 +4,7 @@ layout: products
 name: Bed Desk Table
 price: 137.38
 stripe_link: https://buy.stripe.com/3cs29u3HAb0N4zC5kk
+product_link: https://www.wayfair.com/commercial-business-furniture/pdp/rainbean-foldable-portable-adjustable-laptop-cart-ainb1004.html?st=1
 image: /assets/images/product_01/01.jpg
 description: "Aluminium Alloy Folding computer desk
 weight: 30
