@@ -10,6 +10,8 @@ This is the future of home desks. It has never been so easy to work from the cou
 
 We strive for customer satisfaction and to connect with the right product to enhance work productivity, gaming, and leisure while working remotely. A great investment to enhance your productivity.
 
+All prices are listed in USD.
+
 
 <b>BUYER PROTECTION</b>
 
