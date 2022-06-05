@@ -14,9 +14,9 @@ We strive for customer satisfaction and to connect with the right product to enh
 <b>BUYER PROTECTION</b>
 
 
-PayPal Buyer Protection: We are Proud to provide Paypal Third Party
+Stripe Buyer Protection: We are Proud to provide Stripe Third Party Payment Gateway.
 
-We use secure Payment Gateways to ensure that your information is always kept secure.
+We use secure Stripe Payment Gateway to ensure that your information is always kept secure.
 
 <li>If you don’t receive your item, or the item is significantly different from its description please reach out to us directly.</li>
 
