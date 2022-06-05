@@ -22,7 +22,7 @@ We use secure Stripe Payment Gateway to ensure that your information is always k
 
 <li>If you are using a Credit Card at Checkout your information is not stored in our system so risk of your information being hacked.</li>
 
-<li>You correspond with mylaptopstands.com using the email address info@mylaptopstands.com.</li>
+<li>You correspond with <a href="https://mylaptopstands.com">mylaptopstands.com</a> using the email address <a href="mailto:info@mylaptopstands.com">info@mylaptopstands.com</a>.</li>
 
 <li>You must open a support case with us within 30 days if there is an issue with your item.</li>
 
