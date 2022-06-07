@@ -16,9 +16,9 @@ All prices are listed in USD.
 <b>BUYER PROTECTION</b>
 
 
-Stripe Buyer Protection: We are Proud to provide Stripe Third Party Payment Gateway.
+Stripe and PayPal Buyer Protection: We are Proud to provide Stripe and PayPal Third Party Payment Gateways.
 
-We use secure Stripe Payment Gateway to ensure that your information is always kept secure.
+We use secure Stripe and PayPal Payment Gateways to ensure that your information is always kept secure.
 
 <li>If you don’t receive your item, or the item is significantly different from its description please reach out to us directly.</li>
 
