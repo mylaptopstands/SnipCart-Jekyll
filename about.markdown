@@ -28,7 +28,7 @@ We use secure Stripe and PayPal Payment Gateways to ensure that your information
 
 <li>You must open a support case with us within 30 days if there is an issue with your item.</li>
 
-
+<br>
 <b>Shipping and Delivery</b>
 
 Free shipping for items delivered in the USA.
