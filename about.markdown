@@ -35,5 +35,6 @@ Free shipping for items delivered in the USA.
 Handling time 1-2 business days. Estimated delivery between 4-7 business days.
 
 
-<b>Shipping and Delivery</b>
+<b>Return Policy</b>
+
 No returns or exchanges, but please contact us if you have any problems with your order.
