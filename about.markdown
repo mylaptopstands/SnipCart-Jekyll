@@ -28,9 +28,12 @@ We use secure Stripe and PayPal Payment Gateways to ensure that your information
 
 <li>You must open a support case with us within 30 days if there is an issue with your item.</li>
 
-
+</br>
 <b>Shipping and Delivery</b>
 
 Free shipping for items delivered in the USA.
-No returns or exchanges, but please contact us if you have any problems with your order.
 Handling time 1-2 business days. Estimated delivery between 4-7 business days.
+
+</br>
+<b>Shipping and Delivery</b>
+No returns or exchanges, but please contact us if you have any problems with your order.
