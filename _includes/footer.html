@@ -4,6 +4,51 @@
   <div class="wrapper">
     <script src="https://apps.elfsight.com/p/platform.js" defer></script>
     <div class="elfsight-app-fae948e8-3994-4b5c-9b25-9e1387967ea4" style="position: relative;"></div>
+
+    <script type="text/javascript">
+      var api_key = "gp4qs2pn1qr0ap23qujrq9a1";
+      var shop_name = "EnkelStudios";
+      var imgPadding = "15px";
+
+      // this function adds all the listings with a particular shop_section_id to the website
+      function populateSection(shopSectionID) {
+
+          $.ajax({
+              url: "https://openapi.etsy.com/v2/shops/" + shop_name + "/listings/active.js?api_key=" + api_key + "&includes=MainImage&fields=url,price,title,shop_section_id,description&limit=100",
+              dataType: 'jsonp',
+              success: function (resp) {
+
+                  //display listing images as links
+                  for (i = 0; i < resp.results.length; i++) {
+                          //don't show prices:
+                          //$("#" + shopSectionID).append('<div style="display: inline-block"><a target="_blank" href="' + resp.results[i].url + '">' + '<img class="pullImg" style="padding:' + imgPadding + '" src="' + resp.results[i].MainImage.url_170x135 + '"</img></a></div>');
+                          //show prices:
+                          $("#" + shop).append('<div style="display: inline-block"><a target="_blank" href="' + resp.results[i].url + '">' + '<img class="pullImg" style="padding-top:' + imgPadding + ';padding-left:' + imgPadding + ';padding-right' + imgPadding + '" alt="' + resp.results[i].description + '" src="' + resp.results[i].MainImage.url_170x135 + '"></img></a><center>$' + resp.results[i].price.slice(0, -3) + '</div>');
+                  }
+
+                  // slight opacity fade on mouse over
+                  $(".pullImg").hover(function () {
+                      $(this).fadeTo('fast', .7);
+                  },
+
+                  function () {
+                      $(this).fadeTo('fast', 1);
+                  });
+                  // end opacity fade
+
+              },
+              //end success block
+          });
+
+      }
+
+      // this is the bit of code that starts everything in motion!
+      $(document).ready(function () {
+          //create sections
+          populateSection();
+      });
+    </script>
+
     <h2 class="footer-heading">{{ site.title | escape }}</h2>
 
     <div class="footer-col-wrapper">
